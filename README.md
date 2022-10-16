@@ -1,1 +1,1 @@
-# s
+# souq-django-ecommerce
